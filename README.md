@@ -19,7 +19,3 @@ Please understand if your forked code encounters issues. Certain sensitive eleme
 <img src="./logo/pumpfunlogo.jpg" width="100"/>
 </center>
 
-Should you wish to gain access to the Pump.fun smart contract or have any inquiries, feel free to contact me via:
-
-[Telegram](https://t.me/tarpan_tg) or @tarpan_web3 on Discord
-
